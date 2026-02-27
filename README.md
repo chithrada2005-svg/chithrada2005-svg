@@ -13,7 +13,6 @@ I'm **CHITRADA TEJA** — an aspiring developer and open-source enthusiast. I en
 - **Name:** CHITRADA TEJA
 - **GitHub:** [chithrada2005-svg](https://github.com/chithrada2005-svg)
 - **Account created:** 2025-09-15
-- **Location / Company / Email:** Not publicly specified
 
 I'm focused on building my developer profile, improving my Git and Markdown workflow, and creating lightweight assets (SVGs and README content). I enable 2FA on this account and keep my repositories public for learning and collaborating. 🔐
 
@@ -43,6 +42,7 @@ _Badges:_
 - ![GitHub followers](https://img.shields.io/github/followers/chithrada2005-svg?label=Follow&style=social)
 
 ## Connect with Me
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### Connect with Me
 
