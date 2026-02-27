@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs in the past 3 years<br>📚 I'm currently learning Java<br>🎯 Learning Targets: Java, JavaScript<br>🎲 Currently Know: Python, HTML, CSS<br>📫 Contact Me [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chithrada2005@gmail.com)</p>
+<p align="left">✨ Creating bugs in the past 3 years<br>📚 I'm currently learning Java<br>🎯 Learning Targets: Java, JavaScript<br>🎲 Currently Know: Python, HTML, CSS<br>📫 Contact Me (mailto:chithrada2005@gmail.com)</p>
 
 ###
 
