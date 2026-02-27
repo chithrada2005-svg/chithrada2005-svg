@@ -42,7 +42,7 @@ _Badges:_
 - ![GitHub followers](https://img.shields.io/github/followers/chithrada2005-svg?label=Follow&style=social)
 
 ## Connect with Me
-(https://github-readme-stats.vercel.app/api?username=chithrada2005-svg&show_icons=true&theme=radical)
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=chithrada2005-svg&show_icons=true&theme=radical)
 
 ### Connect with Me
 
