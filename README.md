@@ -25,7 +25,7 @@ I'm focused on building my developer profile, improving my Git and Markdown work
 
 ## Skills & Technologies
 
-HTML, CSS, Python
+HTML, CSS, Python, JavaScript 
 
 ## GitHub Stats
 
