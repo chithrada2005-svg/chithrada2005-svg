@@ -31,7 +31,7 @@ HTML, CSS, Python, JavaScript
 
 ### GitHub Stats
 
-- Public repositories: **2**
+- Public repositories: **6**
 - Followers: **0**
 - Following: **0**
 
