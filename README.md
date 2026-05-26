@@ -1,12 +1,8 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 I'm **CHITRADA TEJA** — an aspiring developer and open-source enthusiast. I enjoy building clean, focused GitHub profile projects and experimenting with SVG and web tooling. 🚀
 
 > Crafting small, meaningful projects and learning every day.
-
-## About Me
 
 ### About Me
 
@@ -27,8 +23,6 @@ I'm focused on building my developer profile, improving my Git and Markdown work
 
 HTML, CSS, Python, JavaScript 
 
-## GitHub Stats
-
 ### GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=chithrada2005-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -36,10 +30,6 @@ HTML, CSS, Python, JavaScript
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chithrada2005-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=chithrada2005-svg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 _Badges:_
 
 - ![Profile views](https://komarev.com/ghpvc/?username=chithrada2005-svg)
