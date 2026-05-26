@@ -31,9 +31,13 @@ HTML, CSS, Python, JavaScript
 
 ### GitHub Stats
 
-- Public repositories: **6**
-- Followers: **0**
-- Following: **0**
+![](https://github-readme-stats.shion.dev/api?username=chithrada2005-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chithrada2005-svg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chithrada2005-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=chithrada2005-svg&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 _Badges:_
